@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"79f37a6a49f2370b","x":-120,"y":-60,"width":66,"height":60,"type":"text","text":"Git"},
+		{"id":"c105aec244c331df","x":320,"y":-55,"width":115,"height":50,"type":"text","text":"Что это?"}
+	],
+	"edges":[
+		{"id":"5dc534c34b5bd8a2","fromNode":"79f37a6a49f2370b","fromSide":"right","toNode":"c105aec244c331df","toSide":"left"}
+	]
+}

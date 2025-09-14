@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "644cc3290cb220b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "61151f35c736bf3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1156d06f2f4d96",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Тестирование_Курс_Русау-Урок 7_к.canvas",
+                "viewState": {
+                  "x": -483.8569342362662,
+                  "y": -2027.4609798479378,
+                  "zoom": -2.020827545503068
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Тестирование_Курс_Русау-Урок 7_к"
+            }
+          },
+          {
+            "id": "890efaea9a220fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стандарт цветовой маркировки в Mind-Map-ах во время конспекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стандарт цветовой маркировки в Mind-Map-ах во время конспекта"
+            }
+          },
+          {
+            "id": "6340a52fa1bdcb18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Тестирование_Курс_Русау-Урок 7_к.canvas",
+                "viewState": {
+                  "x": 1410.1669921875,
+                  "y": -1624,
+                  "zoom": -3
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Тестирование_Курс_Русау-Урок 7_к"
+            }
+          },
+          {
+            "id": "7bf527cc7f51815f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "стих.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "стих"
+            }
+          },
+          {
+            "id": "e625d812f53c945a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Тестирование_Курс_Русау-Урок 6_к.canvas",
+                "viewState": {
+                  "x": 680.6519479092967,
+                  "y": 794.709403668289,
+                  "zoom": -2.45685395684825
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Тестирование_Курс_Русау-Урок 6_к"
+            }
+          },
+          {
+            "id": "5de749f94b28608b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 186,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e196258f0256d000",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f5fdc798777337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2723d4352e159609",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d4a90ec895c14f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f11d7d16eda7ad6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7fb01798b6d6518b",
+    "type": "split",
+    "children": [
+      {
+        "id": "109a72e4bd7a6199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efcb27c98657af8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Питон, Витя.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Питон, Витя"
+            }
+          },
+          {
+            "id": "9779bdb8849b9bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Питон, Витя.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Питон, Витя"
+            }
+          },
+          {
+            "id": "5b1521d0ffa05efa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6718b50c3fb819bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Питон, Витя.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Питон, Витя"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5de749f94b28608b",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "GITler.md",
+    "Тестирование_Курс_Русау-Урок 6_к.canvas",
+    "Тестирование_Курс_Русау-Урок 7_к.canvas",
+    "Тестирование_Курс_Русау-Урок 26_к.canvas",
+    "Тестирование_Курс_Русау-Урок 8_к.canvas",
+    "Тестирование_Курс_Русау_SDLC_Stages.canvas",
+    "Тестирование_Курс_Русау-Урок 2_к.canvas",
+    "Тестирование_Курс_Русау-Урок 1_к.canvas",
+    "Тестирование_Курс_Русау-Урок 5_к.canvas",
+    "Тестирование_Курс_Русау-Урок 4_к.canvas",
+    "Тестирование_Курс_Русау-Урок 4.md",
+    "Принципы ведения Mind-map.md",
+    "Untitled.md",
+    "Стандарт цветовой маркировки в Mind-Map-ах во время конспекта.md",
+    "стих.md",
+    "Тестирование_Курс_Русау- Урок 1.md",
+    "Тестирование_Курс_Русау_STLC.md",
+    "Untitled",
+    "Тестирование_Курс_Русау_SDLC.md",
+    "Тестирование_Курс_Русау-Урок 3.md",
+    "Приложения к записям/Изображения/Pasted image 20250910170612.png",
+    "Приложения к записям/Изображения/Pasted image 20250910164937.png",
+    "Приложения к записям/Изображения/Pasted image 20250910164827.png",
+    "Приложения к записям/Изображения/Pasted image 20250910164349.png",
+    "Тестирование_Курс_Русау-Урок 2.md",
+    "Приложения к записям/Изображения/Pasted image 20250910162424.png",
+    "Приложения к записям/Изображения/Pasted image 20250910160634.png",
+    "Приложения к записям/Изображения/Pasted image 20250910120649.png",
+    "Приложения к записям/Изображения/Pasted image 20250910092144.png",
+    "Приложения к записям/Изображения/Pasted image 20250910092009.png",
+    "Приложения к записям/Изображения/Pasted image 20250910091503.png",
+    "Приложения к записям/Изображения",
+    "Приложения к записям",
+    "Welcome.md",
+    "Тестирование_Курс_Русау_SDLC_Stages.md",
+    "Питон, Витя.md"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"d63a58f0960b27a0","type":"text","text":"1. Инициация (идея).\n   Вот есть у заказчика идея и он идёт с ней в it-компанию чтобы её рассказать. ","x":-124,"y":-337,"width":250,"height":189},
+		{"id":"df93d0ef5c7a29fa","type":"text","text":"Модели SDLC","x":-125,"y":-731,"width":250,"height":60},
+		{"id":"131997a28039ab8c","type":"text","text":"Модель 1.","x":-117,"y":-591,"width":235,"height":60},
+		{"id":"eaf09496e00fa796","type":"text","text":"Этапы:","x":-124,"y":-471,"width":250,"height":50},
+		{"id":"b6f50d627b3ed548","type":"text","text":"2. Разработка и сбор требований. Если идея всем в руководстве понравилась, бизнес-аналитики начинают общаться с заказчиком на предмет наличия у него каких-то пожеланий по итоговому продукту.","x":-124,"y":-80,"width":250,"height":274},
+		{"id":"03810af53bb74bd6","type":"text","text":"3. Разработка UI/UX. Внешнего вида системы и подсистем. ","x":-124,"y":234,"width":250,"height":106},
+		{"id":"ac413b6ff975d4af","type":"text","text":"4. Разработка. Самого приложения и сервисов программистами","x":-124,"y":379,"width":250,"height":121},
+		{"id":"8f7116fd4e24b164","type":"text","text":"5. Тестирование. Функций, разработанных ранее, на предмет несоответствия документации.","x":-124,"y":540,"width":250,"height":169},
+		{"id":"59dd827c5cec8380","type":"text","text":"Релиз. Поддержка системы до обновления или её отключения.","x":-124,"y":740,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"00888062afee6a53","fromNode":"d63a58f0960b27a0","fromSide":"bottom","toNode":"b6f50d627b3ed548","toSide":"top"},
+		{"id":"83a43066a457f4db","fromNode":"eaf09496e00fa796","fromSide":"bottom","toNode":"d63a58f0960b27a0","toSide":"top"},
+		{"id":"0fb9a156009740df","fromNode":"b6f50d627b3ed548","fromSide":"bottom","toNode":"03810af53bb74bd6","toSide":"top"},
+		{"id":"d162593555328cb8","fromNode":"59dd827c5cec8380","fromSide":"left","toNode":"b6f50d627b3ed548","toSide":"left"},
+		{"id":"dac283480385e49f","fromNode":"8f7116fd4e24b164","fromSide":"left","toNode":"b6f50d627b3ed548","toSide":"left"},
+		{"id":"27c6b1e3f9e4cdd6","fromNode":"03810af53bb74bd6","fromSide":"bottom","toNode":"ac413b6ff975d4af","toSide":"top"},
+		{"id":"ece1df6ab58f9b0e","fromNode":"ac413b6ff975d4af","fromSide":"bottom","toNode":"8f7116fd4e24b164","toSide":"top"},
+		{"id":"3a8f7bc3efa834bb","fromNode":"8f7116fd4e24b164","fromSide":"left","toNode":"ac413b6ff975d4af","toSide":"left"},
+		{"id":"74aaef2330d8cff0","fromNode":"8f7116fd4e24b164","fromSide":"bottom","toNode":"59dd827c5cec8380","toSide":"top"},
+		{"id":"a679d7232dfcb6e4","fromNode":"df93d0ef5c7a29fa","fromSide":"bottom","toNode":"131997a28039ab8c","toSide":"top"},
+		{"id":"95bbd9335ed21dc4","fromNode":"131997a28039ab8c","fromSide":"bottom","toNode":"eaf09496e00fa796","toSide":"top"}
+	]
+}
