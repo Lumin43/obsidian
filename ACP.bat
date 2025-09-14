@@ -17,8 +17,8 @@ git diff --quiet
 if %errorlevel% equ 0 (
     git diff --staged --quiet
     if %errorlevel% equ 0 (
-        echo [%CURRENT_DATE%]: сегодня изменений не было((
-        echo программа завершена;
+	powershell -Command "Write-Host '[%CURRENT_DATE%]: сегодня изменений не было((' -ForegroundColor Cyan"
+	powershell -Command "Write-Host 'Программа завершена;' -ForegroundColor Green"
         exit /b 0
     )
 )
