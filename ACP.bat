@@ -61,7 +61,13 @@ if exist ACP.bat (
 REM Коммит новых файлов (если есть)
 if %NEW_FILES% gtr 0 (
     git commit -m "[%CURRENT_DATE%]: добавлено [%NEW_FILES%] новых файлов"
+    echo Отправка коммита с новыми файлами...
     git push -u origin master
+    if %errorlevel% equ 0 (
+        powershell -Command "Write-Host '✓ Коммит успешно отправлен!' -ForegroundColor Green"
+    ) else (
+        powershell -Command "Write-Host '✗ Ошибка при отправке коммита' -ForegroundColor Red"
+    )
 )
 
 REM Коммит измененных файлов (если есть)
@@ -72,7 +78,13 @@ if %MODIFIED_FILES% gtr 0 (
     ) else (
         git commit -m "[%CURRENT_DATE%]: изменено [%MODIFIED_FILES%] файлов"
     )
+    echo Отправка коммита с изменениями...
     git push -u origin master
+    if %errorlevel% equ 0 (
+        powershell -Command "Write-Host '✓ Коммит успешно отправлен!' -ForegroundColor Green"
+    ) else (
+        powershell -Command "Write-Host '✗ Ошибка при отправке коммита' -ForegroundColor Red"
+    )
 )
 
 echo программа завершена;
